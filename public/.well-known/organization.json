@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Wyntrio Solutions LLP",
+  "url": "https://wyntrio.com",
+  "logo": "https://wyntrio.com/logo.png",
+  "description": "Professional consulting and technology solutions company",
+  "founded": "2010",
+  "foundingLocation": "Business City, BC, USA",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Service",
+    "telephone": "+1-555-123-4567",
+    "email": "contact@wyntrio.com"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 Business Street, Suite 100",
+    "addressLocality": "Business City",
+    "addressRegion": "BC",
+    "postalCode": "12345",
+    "addressCountry": "US"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/wyntrio-solutions",
+    "https://www.instagram.com/wyntrio",
+    "https://wa.me/555123456789"
+  ]
+}

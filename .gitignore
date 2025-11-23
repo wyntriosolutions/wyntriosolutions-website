@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Production
+dist/
+
+# Tailwind
+*.css.map
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# VSCode
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Typescript
+*.tsbuildinfo
+
+# Optional next.js cache
+.vercel/
+
+# Turbo repo files (if using turbopack)
+.turbo/
+
+# PM2 logs (if used)
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDE stuff
+.idea/
+*.swp
